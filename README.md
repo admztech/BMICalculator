@@ -17,14 +17,13 @@ A simple web-based BMI (Body Mass Index) Calculator built using HTML, CSS, and J
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
-2. Enter your height in centimeters and weight in kilograms into the corresponding input fields.
-3. Click the "Calculate" button to calculate your BMI.
-4. The result will display your BMI and categorize it as either:
+1. Enter your height in centimeters and weight in kilograms into the corresponding input fields.
+2. Click the "Calculate" button to calculate your BMI.
+3. The result will display your BMI and categorize it as either:
    - Underweight (BMI < 18.6)
    - Normal Range (18.6 <= BMI <= 24.9)
    - Overweight (BMI > 24.9)
-5. Below the result, you will also see a BMI weight guide.
+4. Below the result, you will also see a BMI weight guide.
 
 ## Example
 
